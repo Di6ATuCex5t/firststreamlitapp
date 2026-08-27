@@ -8,6 +8,7 @@
 #KODIPROP:mimetype=application/dash+xml
 #EXTINF:-1 tvg-id="Asianet TV HD" tvg-logo="https://commons.wikimedia.org/wiki/File:Asianet_2023_logo.png" group-title="Malayalam",Asianet TV HD
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -442,6 +443,17 @@ https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8
 #EXTINF:-1 tvg-id="pk sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="Sports", PK sports
 #EXTVLCOPT:network-caching=1000
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
+#EXTINF:-1 tvg-id="M sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="Sports", PK sports
+#EXTVLCOPT:network-caching=1000
+https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Unite8Sports1.in@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="Sports",Unite8 Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://59.103.38.46:8000/play/a125/index.m3u8
+#EXTINF:-1 tvg-id="Unite8Sports2.in@SD"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="Sports",Unite8 Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://59.103.38.46:8000/play/a126/index.m3u8
+
+
 
 
 
