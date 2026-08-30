@@ -102,30 +102,30 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_cha
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-id="Times Now" tvg-logo="https://i.imgur.com/nVAFi0b.jpeg" group-title="English News",Times Now
 http://tv.cloudcdn.me:80/live.ts?channelId=204&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="NDTV 24x7" tvg-logo="https://i.postimg.cc/NF494Cw8/NDTV_Profit.jpg" group-title="English News",NDTV 24x7
+#EXTINF:-1 tvg-id="NDTV 24x7" tvg-logo="https://commons.wikimedia.org/wiki/File:NDTV_logo.svg" group-title="English News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="TOI Global" tvg-logo="https://i.postimg.cc/tTbdjXhF/TOI.png" group-title="English News",Times Of India Global
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
 #EXTINF:-1 tvg-id="TOI Bharat" tvg-logo="https://i.postimg.cc/tTbdjXhF/TOI.png" group-title="English News",TOI Bharat
 https://live.sli.ke/live/npn5cangzo/master.m3u8
-#EXTINF:-1 tvg-id="Wion" tvg-logo="https://i.postimg.cc/NF494Cw8/NDTV_Profit.jpg" group-title="English News",Wion
+#EXTINF:-1 tvg-id="Wion" tvg-logo="https://en.wikipedia.org/wiki/WION#/media/File:WION_news_Logo.svg" group-title="English News",Wion
 http://tv.cloudcdn.me:80/live.ts?channelId=85499&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="NDTV Profit" tvg-logo="https://i.postimg.cc/NF494Cw8/NDTV_Profit.jpg" group-title="English News",NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 #EXTINF:-1 tvg-id="Republic TV" tvg-logo="https://i.postimg.cc/HL8C9JCb/Republic-TV.png" group-title="English News",Republic TV
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
-#EXTINF:-1 tvg-id="ETNow"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/ETNOW.png/revision/latest?cb=20230126171607" group-title="English News",ET Now (720p)
+#EXTINF:-1 tvg-id="ETNow"tvg-logo="https://en.wikipedia.org/wiki/ET_Now#/media/File:ET_Now_logo.svg" group-title="English News",ET Now (720p)
 #EXTVLCOPT:http-referrer=https://www.timesnownews.com/
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
-#EXTINF:-1 tvg-id="CNBCTV18.in@SD"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/CNBC-TV18_2026.svg/revision/latest?cb=20260519003919" group-title="English News",CNBC TV18 (1080p)
+#EXTINF:-1 tvg-id="CNBCTV18.in@SD"tvg-logo="https://commons.wikimedia.org/wiki/File:CNBC_TV18.png" group-title="English News",CNBC TV18 (1080p)
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in@SD"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/CNBC-TV18_Prime_HD.jpg/revision/latest?cb=20240314174558" group-title="English News",CNBC TV18 Prime HD (1080p)
+#EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in@SD"tvg-logo="https://commons.wikimedia.org/wiki/File:CNBC_TV18.png" group-title="English News",CNBC TV18 Prime HD (1080p)
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr@Poland" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="English News",Africanews (720p)
 https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (720p)
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="English News",Fox News Channel (720p)
 http://45.190.28.50/FOX_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="Africa24English.fr@SD" tvg-logo="https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png" group-title="News",Africa 24 English (1080p)
+#EXTINF:-1 tvg-id="Africa24English.fr@SD" tvg-logo="https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png" group-title="English News",Africa 24 English (1080p)
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 
 #Tamil
