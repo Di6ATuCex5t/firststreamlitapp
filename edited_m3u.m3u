@@ -121,6 +121,12 @@ https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in@SD"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/CNBC-TV18_Prime_HD.jpg/revision/latest?cb=20240314174558" group-title="English News",CNBC TV18 Prime HD (1080p)
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="AfricanewsEnglish.fr@Poland" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="English News",Africanews (720p)
+https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (720p)
+http://45.190.28.50/FOX_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="Africa24English.fr@SD" tvg-logo="https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png" group-title="News",Africa 24 English (1080p)
+https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 
 #Tamil
 
@@ -430,17 +436,12 @@ https://vod1.jalatech.ps/yas_sport/index.m3u8?token=be2b5985819a26bef7ce8078175d
 http://tv.cloudcdn.me:80/live.ts?channelId=274&uid=3510&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="a sports" tvg-logo="https://i.postimg.cc/rsmkZhT6/a_sports.png" group-title="Sports",A Sports
 http://tv.cloudcdn.me:80/live.ts?channelId=12217&uid=3510&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="HUB_SPORTS_1_HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="Sports",HUB_SPORTS_1_HD
-https://sra72yz.s.gy/HUB_SPORTS_1_HD.m3u8
 #EXTINF:-1 tvg-id="ky Racing 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="Sports", Sky Racing 1 (720p)
 #EXTVLCOPT:network-caching=1000
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sky Racing 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="Sports", Sky Racing 2 (720p)
 #EXTVLCOPT:network-caching=1000
 https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
-#EXTINF:-1 tvg-id="Sky sports cricket" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="Sports", Sky sports cricket
-#EXTVLCOPT:network-caching=1000
-https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8
 #EXTINF:-1 tvg-id="pk sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="Sports", PK sports
 #EXTVLCOPT:network-caching=1000
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
@@ -453,6 +454,8 @@ http://59.103.38.46:8000/play/a125/index.m3u8
 #EXTINF:-1 tvg-id="Unite8Sports2.in@SD"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="Sports",Unite8 Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://59.103.38.46:8000/play/a126/index.m3u8
+#EXTINF:-1 tvg-id="Africa24Sport.fr@SD" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" group-title="News;Sports",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
 
 
