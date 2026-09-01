@@ -114,7 +114,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=204&uid=13298&deviceMac=00:1A:79:31:3
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="TOI Global" tvg-logo="https://i.postimg.cc/tTbdjXhF/TOI.png" group-title="English News",Times Of India Global
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
-#EXTINF:-1 tvg-id="100NEWS.ua@SD" tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="Business;News",100% News (576p)
+#EXTINF:-1 tvg-id="100NEWS.ua@SD" tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="English News",100% News (576p)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png" group-title="English News",One America News Network (720p)
 http://23.237.104.106:8080/USA_OAN/index.m3u8
