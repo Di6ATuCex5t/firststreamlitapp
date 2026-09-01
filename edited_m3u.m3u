@@ -41,8 +41,8 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
 #EXTINF:-1 tvg-id="Flowers TV usa" tvg-logo="https://i.postimg.cc/rmVchFfQ/Flowers-TV-usa.jpg" group-title="Malayalam",Flowers TV usa
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
-#EXTINF:-1 tvg-id="Flowers TV usa" tvg-logo="https://i.postimg.cc/rmVchFfQ/Flowers-TV-usa.jpg" group-title="Malayalam",Flowers TV usa
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+#EXTINF:-1 tvg-id="Flowers TV " tvg-logo="https://i.postimg.cc/rmVchFfQ/Flowers-TV-usa.jpg" group-title="Malayalam",Flowers TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=43474&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-name="KairaliWe" tvg-logo="https://yt3.ggpht.com/r2F6NA3i4eUTGN8yY3dOUIEdUnQdDu11zDGiO1mDWyXk4H9uCBmpElaIdIb2a-BvJeOJE13r=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Malayalam", Kairali We
 https://cdn-3.pishow.tv/live/1530/master.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in@SD" tvg-name="AmritaTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lc41SLmKKTgccE82ZXf7Gd-4_vJGEZHJ2y7qA5iIcq3Rs=s160-c-k-c0x00ffffff-no-rj" group-title="Malayalam",Amrita TV
@@ -262,6 +262,8 @@ https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=44637&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Eng.png?width=200" group-title="Documentary",Discovery Channel
 http://tv.cloudcdn.me:80/live.ts?channelId=57776&uid=13298&deviceMac=00:1A:79:31:34:0E
+http://tv.cloudcdn.me:80/live.ts?channelId=43516&uid=13298&deviceMac=00:1A:79:31:34:0E
+http://tv.cloudcdn.me:80/live.ts?channelId=43524&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 # Devotional
 #EXTINF:-1 tvg-id="SVBC3.in@SD" tvg-name="SVBC3" tvg-logo="https://yt3.ggpht.com/Uqg8i6C1gw__d0JVhNzA9dX6vzbj-G-MdR4bdjsEP5jNKx_Yc17QCc86Xeknf6uQM_py1Uki=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Devotional",SVBC 3
