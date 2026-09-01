@@ -10,6 +10,7 @@
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 #EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://commons.wikimedia.org/wiki/File:Asianet_2023_logo.png" group-title="Malayalam",Asianet HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=43469&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -18,6 +19,7 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #KODIPROP:mimetype=application/dash+xml
 #EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://commons.wikimedia.org/wiki/File:Asianet_Plus_Logo.jpg" group-title="Malayalam",Asianet Plus
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=43472&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -29,6 +31,8 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 
 #EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" group-title="Malayalam",Surya TV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Surya Music HD" tvg-logo="https://i.postimg.cc/vTtd75nq/sun_surya_music.png" group-title="Malayalam",Surya Music 
+http://tv.cloudcdn.me:80/live.ts?channelId=43485&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Mazhavil Manorama HD" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam",Mazhavil Manorama HD
 https://cdn-7.pishow.tv/live/1129/master.m3u8
 #EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.postimg.cc/GtQ9hC2J/mazhavil_manorama.jpg" group-title="Malayalam",Mazhavil Manorama
@@ -152,7 +156,8 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/mas
 https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8
 
 #Tamil
-
+#EXTINF:-1 tvg-id="Sun TV hd" tvg-logo="https://i.postimg.cc/tCPsM4RB/Sun_Tv_HD.png" group-title="Tamil",Sun TV HD
+http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sun music hd" tvg-logo="https://i.postimg.cc/tCPsM4RB/Sun_Music_HD.png" group-title="Tamil",Sun music HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sun News" tvg-logo="https://i.postimg.cc/qMXkKhvg/Sun_News.png" group-title="Tamil",Sun News
