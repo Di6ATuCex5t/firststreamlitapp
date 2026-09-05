@@ -34,7 +34,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=13298&deviceMac=00:1A:79:31
 #EXTINF:-1 tvg-id="Surya Music HD" tvg-logo="https://i.postimg.cc/vTtd75nq/sun_surya_music.png" group-title="Malayalam",Surya Music 
 http://tv.cloudcdn.me:80/live.ts?channelId=43485&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Mazhavil Manorama HD" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam",Mazhavil Manorama HD
-https://cdn-7.pishow.tv/live/1129/master.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=43480&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.postimg.cc/GtQ9hC2J/mazhavil_manorama.jpg" group-title="Malayalam",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetMiddleEast" tvg-logo="https://logos.fandom.com/wiki/Asianet_Middle_East?file=AME.png" group-title="Malayalam",Asianet Middle East (576p)
@@ -44,15 +44,16 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-id="Flowers TV " tvg-logo="https://i.postimg.cc/rmVchFfQ/Flowers-TV-usa.jpg" group-title="Malayalam",Flowers TV 
 http://tv.cloudcdn.me:80/live.ts?channelId=43473&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-name="KairaliWe" tvg-logo="https://yt3.ggpht.com/r2F6NA3i4eUTGN8yY3dOUIEdUnQdDu11zDGiO1mDWyXk4H9uCBmpElaIdIb2a-BvJeOJE13r=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Malayalam", Kairali We
-https://cdn-3.pishow.tv/live/1530/master.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=43487&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="AmritaTV.in@SD" tvg-name="AmritaTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lc41SLmKKTgccE82ZXf7Gd-4_vJGEZHJ2y7qA5iIcq3Rs=s160-c-k-c0x00ffffff-no-rj" group-title="Malayalam",Amrita TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-name="Kairali TV" tvg-logo= "https://yt3.googleusercontent.com/xQxOUh8hCgAmWqOh-2B7SXyqVglpgoEonidbWCRJ_V3pXKp-Le7FqPwherzpkpKjUXtejdeM2g=s160-c-k-c0x00ffffff-no-rj" group-title="Malayalam",Kairali TV
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=43476&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="KairaliArabia.in@SD" tvg-name="Kairali Arabia" tvg-logo= "https://yt3.googleusercontent.com/xQxOUh8hCgAmWqOh-2B7SXyqVglpgoEonidbWCRJ_V3pXKp-Le7FqPwherzpkpKjUXtejdeM2g=s160-c-k-c0x00ffffff-no-rj" group-title="Malayalam",Kairali Arabia (576p)
 https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 #EXTINF:-1 tvg-id="Kappa TV" tvg-logo="https://i.imgur.com/El5Xw0n.jpeg" group-title="Malayalam",Kappa TV
-https://cdn-3.pishow.tv/live/1123/master.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=43477&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Safari TV" tvg-logo="https://i.imgur.com/fksOSum.png" group-title="Malayalam",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Victers TV" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Malayalam",Victers TV
@@ -62,7 +63,7 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTINF:-1 tvg-id="Kaumudy TV" tvg-logo="https://i.imgur.com/hIYO27z.jpeg" group-title="Malayalam",Kaumudy TV
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Jeevan TV" tvg-logo="https://i.imgur.com/0mPBi6Y.jpeg" group-title="Malayalam",Jeevan TV
-https://cdn-3.pishow.tv/live/1467/master.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=43475&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Nick malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/80f0eff6af7183a372a5ba4622e6cc95.png" group-title="Malayalam",Nick malayalam
 http://tv.cloudcdn.me:80/live.ts?channelId=89980&uid=13298&deviceMac=00:1A:79:31:34:0E
 
@@ -87,9 +88,11 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-id="Janam TV " tvg-logo="https://i.imgur.com/rSu5A45.jpeg" group-title="Malayalam News",Janam TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Media One" tvg-logo="https://i.imgur.com/9Yyzvp9.jpeg" group-title="Malayalam News",Media One
-https://cdn-3.pishow.tv/live/1481/master.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=43481&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="English News18Kerala.in@SD"tvg-logo="https://images.news18.com/dlxczavtqcctuei/news18/static/images/News18_Malyalam.svg" group-title="Malayalam News",News18 Kerala (1080p)
 https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="KairaliNews.in@SD" tvg-logo="https://i.imgur.com/ANh7Zpg.jpeg" group-title="Malayalam News",Kairali News (576p)
+https://mumt01.tangotv.in/O5aw8Zn3KAIRALINEWS/index.m3u8
 
 
 #English News
@@ -190,8 +193,6 @@ https://rpn3.bozztv.com/dvrfl07/ushba-t10/tracks-v1a1/mono.m3u8
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 tvg-id="UTV.in@SD" tvg-name="UTV Palakkad" tvg-logo="https://utvpkd.in/assets/img/logo.png" group-title="Malayalam Entertainment",UTV Palakkad
 https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="JeevanTV.in@SD"  tvg-name="Jeevan TV" tvg-logo="https://jeevannewsonline.com/wp-content/uploads/2023/09/cropped-cropped-jeevanlogo.png?w=77" group-title="Malayalam Entertainment",Jeevan TV
-https://cdn-3.pishow.tv/live/1467/master.m3u8
 #EXTINF:-1 tvg-id="Eagle One"  tvg-name="Eagle One" tvg-logo="https://i.imgur.com/qelJwNi.png" group-title="Malayalam Entertainment",Eagle One
 https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
 #EXTINF:-1 tvg-id="Swantham.in@SD" tvg-name="Swantham" tvg-logo="https://i.imgur.com/ye6v4GP.png" group-title="Malayalam Entertainment",Swantham
