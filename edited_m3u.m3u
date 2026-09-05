@@ -847,7 +847,7 @@ https://play.applelive.in/jcvtv/jcvmusix.m3u8
 https://play.applelive.in/haitv/haitv.m3u8
 #EXTINF:-1 tvg-id="HaiTV" tvg-name-ta="ஹை டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787907930_IMG_3011.PNG" tvg-region="Marthandam;Kanyakumari" group-title="Tamil Local",Hai TV
 https://play.applelive.in/stv/stv.m3u8
-#EXTINF:-1 tvg-id="JJNewsTamil" tvg-name-ta="டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1742060000_1000825080.jpg" tvg-region="Australia" group-title="Tamil Local;News",JJ News Tamil
+#EXTINF:-1 tvg-id="JJNewsTamil" tvg-name-ta="டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1742060000_1000825080.jpg" tvg-region="Australia" group-title="Tamil Local",JJ News Tamil
 https://hlsstream.olidigital.in/jjtvnewstamil/jjtvnewstamil/index.m3u8  
 #EXTINF:-1 tvg-id="ChannelSpice" tvg-name-ta="டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/ChannelSpice.png" tvg-region="Theni" group-title="Tamil Local",Channel Spice
 https://stream.onecloudlive.in/spicetv/spicetv/index.m3u8
@@ -1371,7 +1371,7 @@ http://mkpcloud.publicvm.com:1935/mkptv/myStream/playlist.m3u8
 https://ipcloud.live/rvtv/rvtvhd/index.m3u8
 #EXTINF:-1 tvg-id="SolaiTV" tvg-name-ta="டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SolaiTV.png" tvg-region="Sholavandan;Madurai" group-title="Tamil Local",Solai TV
 https://ipcloud.live/solaitv/solaihd/index.m3u8
-#EXTINF:-1 tvg-id="JeyamPlus2" tvg-name-ta="டிவி" tvg-logo="https://play-lh.googleusercontent.com/m0axMB9eZKt93L-twW_Tsl-F0S6_CP62DxHUW-nRe6toU-N8cAvPj2B1faU4ZeJyVDg" tvg-region="" group-title="Tamil Local;VK Digital Platform",Jeyam Plus
+#EXTINF:-1 tvg-id="JeyamPlus2" tvg-name-ta="டிவி" tvg-logo="https://play-lh.googleusercontent.com/m0axMB9eZKt93L-twW_Tsl-F0S6_CP62DxHUW-nRe6toU-N8cAvPj2B1faU4ZeJyVDg" tvg-region="" group-title="Tamil Local",Jeyam Plus
 https://ipcloud.live/mmtv/jeyamplus/index.m3u8
 #EXTINF:-1 tvg-id="MallaiTV" tvg-name-ta="டிவி" tvg-logo="https://i.ibb.co/QvTHJWhy/1000136573.jpg" tvg-region="Mamallapuram" group-title="Tamil Local",Mallai TV
 https://rojatv.cloud/mallaitv/mallaitv/index.m3u8
@@ -1807,9 +1807,9 @@ https://kali.vdopanel.com:3169/stream/play.m3u8
 https://ca.streamjo.com/live/samugam.m3u8
 #EXTINF:-1 tvg-id="EETTV" tvg-name-ta="EET டிவி" tvg-logo="https://i.imgur.com/rntSEDZ.png" tvg-region="Canada;Sri Lanka" group-title="Tamil Local",EET TV
 https://eu.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1 tvg-id="BritainTamilBhakthi" tvg-name-ta="பிரிட்டன் தமிழ் பக்தி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1740571804_Britain%20Tamil-Logo%20Bhakthi.png" tvg-region="United Kingdom" group-title="Tamil Local;Tamil Local;TCCL Platform",Britain Tamil Bhakthi
+#EXTINF:-1 tvg-id="BritainTamilBhakthi" tvg-name-ta="பிரிட்டன் தமிழ் பக்தி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1740571804_Britain%20Tamil-Logo%20Bhakthi.png" tvg-region="United Kingdom" group-title="Tamil Local",Britain Tamil Bhakthi
 http://btc.inet.moe/live/btctv/index.m3u8
-#EXTINF:-1 tvg-id="BritainTamilBhakthi" tvg-name-ta="பிரிட்டன் தமிழ் பக்தி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1740571804_Britain%20Tamil-Logo%20Bhakthi.png" tvg-region="United Kingdom" group-title="Tamil Local;Tamil Local;TCCL Platform",Britain Tamil Bhakthi [IPTelevision]
+#EXTINF:-1 tvg-id="BritainTamilBhakthi" tvg-name-ta="பிரிட்டன் தமிழ் பக்தி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1740571804_Britain%20Tamil-Logo%20Bhakthi.png" tvg-region="United Kingdom" group-title="Tamil Local",Britain Tamil Bhakthi [IPTelevision]
 https://tcclbtc.iptelevision.live/btc/video.m3u8
 #EXTINF:-1 tvg-id="JCTVMadurai" tvg-name-ta="JC டிவி (மதுரை)" tvg-logo="https://play-lh.googleusercontent.com/G_KgC3YE0jgkkHw_45fQMEYbwgqXRVShTn3sJLP9_WeqNxmKvHdskh-nPmTFgLvn" tvg-region="Madurai" group-title="Tamil Local",JC TV Madurai
 https://ktismaservers.in:3545/live/jctvlive.m3u8
