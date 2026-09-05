@@ -1816,7 +1816,7 @@ https://ktismaservers.in:3545/live/jctvlive.m3u8
 https://stream.onecloudlive.in/orange/ME24TAMIL/index.m3u8
 #EXTINF:-1 tvg-id="ME24Tamil" tvg-name-ta="ME24 தமிழ்" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/ME24Tamil.png" tvg-region="Canada" group-title="Tamil Local",ME24 Tamil [RojaTV]
 https://stream.rojatv.cloud/ME24TAMIL/onecloud/index.m3u8
-#EXTINF:-1 tvg-id="MeiveliTV" tvg-name-ta="மெய்வெளி டிவி" tvg-logo="https://www.meiveli.tv/wp-content/uploads/2023/07/MEIVELI-TV-ENGLISH.png" tvg-region="Unknown" group-title="Tamil Local;Christian Devotional",Meiveli TV
+#EXTINF:-1 tvg-id="MeiveliTV" tvg-name-ta="மெய்வெளி டிவி" tvg-logo="https://www.meiveli.tv/wp-content/uploads/2023/07/MEIVELI-TV-ENGLISH.png" tvg-region="Unknown" group-title="Tamil Local",Meiveli TV
 https://meiveli.livebox.co.in/MEIVELIMAINhls/meivelimain.m3u8
 #EXTINF:-1 tvg-id="YeshuaTV" tvg-name-ta="எஸுயா டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739979735_WhatsApp_Image_2025-02-19_at_6.21.54_PM-removebg-preview.png" tvg-region="Unknown" group-title="Tamil Local"Yeshua TV
 https://transcoding.livebox.co.in/Yeshuahls/live.m3u8
