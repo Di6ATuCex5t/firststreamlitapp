@@ -1620,7 +1620,7 @@ http://omtv.7starcloud.com:1935/omtv/live/live.m3u8
 https://ipcloud.live/ctn/ctntvhd/index.m3u8
 #EXTINF:-1 tvg-id="ArasuTV" tvg-name-ta="அரசு டிவி" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/02/ctn-arasu-tv204274256292633484.png" tvg-region="Unknown" group-title="Tamil Local",Arasu TV
 https://ipcloud.live/ctn/arasu/index.m3u8
-#EXTINF:-1 tvg-id="MagalirTV" tvg-name-ta="மகளிர் டிவி" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-MAGALIR-TV.png?alt=media&token=479bc182-afa2-406a-8dbb" tvg-region="Unknown" group-title="Lifestyle",Magalir TV
+#EXTINF:-1 tvg-id="MagalirTV" tvg-name-ta="மகளிர் டிவி" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-MAGALIR-TV.png?alt=media&token=479bc182-afa2-406a-8dbb" tvg-region="Unknown" group-title="Tamil Local",Magalir TV
 https://ipcloud.live/ctn/magalir/index.m3u8
 #EXTINF:-1 tvg-id="DinaTharani" tvg-name-ta="தின தரணி" tvg-logo="https://play-lh.googleusercontent.com/k0H62_q4i5vekWUm4A5ibIg33Dx4eO7qwRj9RewY_QMhC2VCvpaS5Rz0xiKg0vQqMDM" tvg-region="Unknown" group-title="Tamil Local",Dina Tharani
 https://stream.sscloud7.in/live/ddtv/index.m3u8
