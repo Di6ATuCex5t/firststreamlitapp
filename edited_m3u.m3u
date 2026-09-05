@@ -662,7 +662,7 @@ https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
 https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-id="MNMusic" tvg-name-ta="MN மியூசிக்" tvg-logo="https://tamilradios.org/wp-content/uploads/2025/01/mn-music.jpg" tvg-region="Dharmapuri" group-title="Tamil Local",MN Music
 #https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 tvg-id="GEMTV" tvg-name-ta="டிவி" tvg-logo="https://yt3.googleusercontent.com/0POAEUrXj9S3H6jYBYF8D894bb599adV9t18qJmUdrcYpAYUdKonTWku7QYVHU0WeRnmstkQ" tvg-region="State-wide" group-title="News",GEM TV
+#EXTINF:-1 tvg-id="GEMTV" tvg-name-ta="டிவி" tvg-logo="https://yt3.googleusercontent.com/0POAEUrXj9S3H6jYBYF8D894bb599adV9t18qJmUdrcYpAYUdKonTWku7QYVHU0WeRnmstkQ" tvg-region="State-wide" group-title="Tamil Local",GEM TV
 https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="YETTV" tvg-name-ta="டிவி" tvg-logo="https://yettelevision.com/assets/images/logo/channel_1.png" tvg-region="Unknown" group-title="Tamil Local",YET TV
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
@@ -1622,7 +1622,7 @@ https://ipcloud.live/ctn/ctntvhd/index.m3u8
 https://ipcloud.live/ctn/arasu/index.m3u8
 #EXTINF:-1 tvg-id="MagalirTV" tvg-name-ta="மகளிர் டிவி" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-MAGALIR-TV.png?alt=media&token=479bc182-afa2-406a-8dbb" tvg-region="Unknown" group-title="Lifestyle",Magalir TV
 https://ipcloud.live/ctn/magalir/index.m3u8
-#EXTINF:-1 tvg-id="DinaTharani" tvg-name-ta="தின தரணி" tvg-logo="https://play-lh.googleusercontent.com/k0H62_q4i5vekWUm4A5ibIg33Dx4eO7qwRj9RewY_QMhC2VCvpaS5Rz0xiKg0vQqMDM" tvg-region="Unknown" group-title="News",Dina Tharani
+#EXTINF:-1 tvg-id="DinaTharani" tvg-name-ta="தின தரணி" tvg-logo="https://play-lh.googleusercontent.com/k0H62_q4i5vekWUm4A5ibIg33Dx4eO7qwRj9RewY_QMhC2VCvpaS5Rz0xiKg0vQqMDM" tvg-region="Unknown" group-title="Tamil Local",Dina Tharani
 https://stream.sscloud7.in/live/ddtv/index.m3u8
 #EXTINF:-1 tvg-id="TCBN" tvg-name-ta="TCBN டிவி" tvg-logo="https://tvchannel.in/wp-content/uploads/2025/04/tcbn-300x169.png" tvg-region="Unknown" group-title="Tamil Local"TCBN
 https://ktismaservers.in:3382/live/tcbntvlive.m3u8
@@ -1636,7 +1636,7 @@ https://2-fss-2.streamhoster.com/pl_118/203324-1410936-1/chunklist.m3u8
 https://ipcloud.live/rtv/rtvstream/index.m3u8
 #EXTINF:-1 tvg-id="LifeTV" tvg-name-ta="லைஃப் டிவி" tvg-logo="https://i.ibb.co/v1C0bdR/logo-1.png" tvg-region="Unknown" group-title="Tamil Local"Life TV
 https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
-#EXTINF:-1 tvg-id="News80Tamil" tvg-name-ta="நியூஸ் 80 தமிழ்" tvg-logo="https://play-lh.googleusercontent.com/vUleh6XgoF2Ouabo6ImWZFg1wZY0xiFZDgp8d2fl2wvx2gejgt7eavWhn9DxTVEtw4I" tvg-region="Unknown" group-title="News",News 80 Tamil
+#EXTINF:-1 tvg-id="News80Tamil" tvg-name-ta="நியூஸ் 80 தமிழ்" tvg-logo="https://play-lh.googleusercontent.com/vUleh6XgoF2Ouabo6ImWZFg1wZY0xiFZDgp8d2fl2wvx2gejgt7eavWhn9DxTVEtw4I" tvg-region="Unknown" group-title="Tamil Local",News 80 Tamil
 https://3.proxy.nellaiiptv.com/NOTV/NEWS80/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="CTV" tvg-name-ta="C டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/CTV.png" tvg-region="Unknown" group-title="Tamil Local",C TV
 http://ctv.phoenixcreations.online/ctv/ctv/playlist.m3u8
@@ -1906,7 +1906,7 @@ https://srvvii.proxy.nellaiiptv.com/live/podhigai-primetv/index.m3u8
 https://sanplayout.xyz/live2/idhayamtv/index.m3u8
 #EXTINF:-1 tvg-id="IdhayamKids" tvg-name-ta="இதயம் கிட்ஸ்" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1778983676_WhatsApp%20Image%202026-05-17%20at%207.34.57%20AM.jpeg" tvg-region="Unknown" group-title="Kids",Idhayam Kids
 https://sanplayout.xyz/live2/idhayamkidz/index.m3u8
-#EXTINF:-1 tvg-id="A1MediaNews" tvg-name-ta="A1 மீடியா நியூஸ்" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1778983617_WhatsApp%20Image%202026-05-17%20at%207.34.58%20AM.jpeg" tvg-region="Unknown" group-title="News",A1 Media News
+#EXTINF:-1 tvg-id="A1MediaNews" tvg-name-ta="A1 மீடியா நியூஸ்" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1778983617_WhatsApp%20Image%202026-05-17%20at%207.34.58%20AM.jpeg" tvg-region="Unknown" group-title="Tamil Local",A1 Media News
 https://sanplayout.xyz/live2/a1medianews/index.m3u8
 #EXTINF:-1 tvg-id="JeevaneerodaiTV" tvg-name-ta="ஜீவநீரோடை டிவி" tvg-logo="http://phoenixcreations.online/ott/joshuaott/uploads/1767870431_JN%20LOGO.png" tvg-region="Puducherry" group-title="Tamil Local"Jeevaneerodai TV
 https://web.applelive.in/jeevaneerodaitv/jeevaneerodaitv/index.m3u8
