@@ -533,6 +533,7 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
 #TAMIL LOCAL
 
+
 # Tamil GEC
 #EXTINF:-1 tvg-id="3201" tvg-name-ta="சனா டிவி" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sanatv.png" tvg-region="Panruti;Cuddalore" group-title="Tamil Local",Sana TV
 https://stream.galaxyott.live/live/sanatv/index.m3u8
@@ -1342,9 +1343,9 @@ https://mumbai-edge.smartplaytv.in/smartsri/index.m3u8
 https://stream.onecloudlive.in/manjutv/manjutv/index.m3u8
 #EXTINF:-1 tvg-id="JJeyam" tvg-name-ta="டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/JJeyam.png" tvg-region="Chennai" group-title="Tamil Local",J Jeyam
 https://stream.singamcloud.in/jjeyam/jjeyam/index.m3u8
-#EXTINF:-1 tvg-id="JeyamPlus" tvg-name-ta="டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/JeyamPlus.png" tvg-region="" group-title="Tamil Local;TACTV Platform",Jeyam Plus
+#EXTINF:-1 tvg-id="JeyamPlus" tvg-name-ta="டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/JeyamPlus.png" tvg-region="" group-title="Tamil Local",Jeyam Plus
 https://stream.singamcloud.in/jeyamplus/jeyamplus/index.m3u8
-#EXTINF:-1 tvg-id="DJeyam" tvg-name-ta="டிவி" tvg-logo="https://i.ibb.co/VYbgLDk7/1000137312.jpg" tvg-region="" group-title="Tamil Local;TACTV Platform",D Jeyam 
+#EXTINF:-1 tvg-id="DJeyam" tvg-name-ta="டிவி" tvg-logo="https://i.ibb.co/VYbgLDk7/1000137312.jpg" tvg-region="" group-title="Tamil Local",D Jeyam 
 https://stream.singamcloud.in/djeyam/djeyam/index.m3u8
 #EXTINF:-1 tvg-id="TharaniTV" tvg-name-ta="டிவி" tvg-logo="https://play-lh.googleusercontent.com/06EAOwb3YN5iH0Z5JbaS2CrJdupfuOYsxPryQF-gJtHQfmtxK4mGoFoOkss60r6Eahw" tvg-region="Tirunelveli" group-title="Tamil Local",Tharani TV
 https://singamcloud.in/tharanitvtvl/tharanitvtvl/index.m3u8
@@ -2004,12 +2005,12 @@ https://srvx.nellaiiptv.com/restream/av4hu/index.m3u8
 https://srvx.nellaiiptv.com/restream/dbjdmm/index.m3u8
 #EXTINF:-1 tvg-id="NaveenTV" tvg-name-ta="நவீன் டிவி" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1772874205.webp" tvg-region="Tirunelveli" group-title="Tamil Local",Naveen TV
 https://srvx.nellaiiptv.com/restream/b3ndcv/index.m3u8
-#EXTINF:-1 tvg-id="SriVarahiTV" tvg-name-ta="ஸ்ரீ வராஹி டிவி" tvg-logo="" tvg-region="" group-title="VK Digital Platform;SCV Platform",Sri Varahi TV
+#EXTINF:-1 tvg-id="SriVarahiTV" tvg-name-ta="ஸ்ரீ வராஹி டிவி" tvg-logo="" tvg-region="" group-title="Tamil Local",Sri Varahi TV
 https://real-vk.proxy.nellaiiptv.com/SRIVARAHITV/index.m3u8
-#EXTINF:-1 tvg-id="TelemaxTamil" tvg-name-ta="டெலிமேக்ஸ் தமிழ்" tvg-logo="https://yt3.googleusercontent.com/JZFLrlPP5c1YGD1xxTkZ35B_uW9P_nUqeBLZPJqtOTlx0FDNnrmIHSzrzzOL6YMCJtniMPm3X_U" tvg-region="Chennai" group-title="SCV Platform;TCCL Platform;VK Digital Platform;",Telemax Tamil
+#EXTINF:-1 tvg-id="TelemaxTamil" tvg-name-ta="டெலிமேக்ஸ் தமிழ்" tvg-logo="https://yt3.googleusercontent.com/JZFLrlPP5c1YGD1xxTkZ35B_uW9P_nUqeBLZPJqtOTlx0FDNnrmIHSzrzzOL6YMCJtniMPm3X_U" tvg-region="Chennai" group-title="Tamil Local",Telemax Tamil
 https://real-vk.proxy.nellaiiptv.com/TELEMAX/index.m3u8
 #EXTINF:-1 tvg-id="DiamondTV" tvg-name-ta="டைமண்ட் டிவி" tvg-logo="" tvg-region="" group-title="Tamil Local",Diamond TV
-https://real-vk.proxy.nellaiiptv.com/DIAMONDTV/index.m3u8
+https://real-vk.proxy.nellaiiptv.com/DIAMONDTV/index.m3u
 #EXTINF:-1 tvg-id="DiamondTalkies" tvg-name-ta="டைமண்ட் டாக்கீஸ்" tvg-logo="" tvg-region="" group-title="Tamil Local",Diamond Talkies
 https://real-vk.proxy.nellaiiptv.com/DIAMONDTALKIES/index.m3u8
 #EXTINF:-1 tvg-id="DiamondMusic" tvg-name-ta="டைமண்ட் மியூசிக்" tvg-logo="" tvg-region="" group-title="Tamil Local",Diamond Music
@@ -2144,6 +2145,4 @@ https://5dd3981940faa.streamlock.net/aalayamtv/aalayamtv/playlist.m3u8
 https://bk7l2z5nlx53-hls-live.5centscdn.com/alpha/55f071ebe5152828fdcc330c765659ea.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GopuramTV" tvg-name-ta="கோபுரம் டிவி" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1788507469.webp" tvg-region="Unknown" group-title="Tamil Local",Gopuram TV
 https://gopuram.stream.onecloudlive.in/gopuram/gopuramhd/index.m3u8
-
-
 
