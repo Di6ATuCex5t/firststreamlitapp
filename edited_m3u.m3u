@@ -6,8 +6,8 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
-#EXTINF:-1 tvg-id="Asianet TV HD" tvg-logo="https://commons.wikimedia.org/wiki/File:Asianet_2023_logo.png" group-title="Malayalam",Asianet TV HD
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
+# #EXTINF:-1 tvg-id="Asianet TV HD" tvg-logo="https://commons.wikimedia.org/wiki/File:Asianet_2023_logo.png" group-title="Malayalam",Asianet TV HD
+# https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 #EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://commons.wikimedia.org/wiki/File:Asianet_2023_logo.png" group-title="Malayalam",Asianet HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=43469&uid=13298&deviceMac=00:1A:79:31:34:0E
@@ -27,7 +27,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43472&uid=13298&deviceMac=00:1A:79:31
 #KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 #EXTINF:-1 tvg-id="Asianet Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Asianet_Movies.png" group-title="Malayalam",Asianet Movies HD
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
+# https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=43472&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 #EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" group-title="Malayalam",Surya TV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=13298&deviceMac=00:1A:79:31:34:0E
