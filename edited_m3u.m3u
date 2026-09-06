@@ -35,7 +35,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=13298&deviceMac=00:1A:79:31
 #EXTINF:-1 tvg-id="Surya Music HD" tvg-logo="https://i.postimg.cc/vTtd75nq/sun_surya_music.png" group-title="Malayalam",Surya Music 
 http://tv.cloudcdn.me:80/live.ts?channelId=43485&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Mazhavil Manorama HD" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam",Mazhavil Manorama HD
-http://tv.cloudcdn.me:80/live.ts?channelId=43480&uid=13298&deviceMac=00:1A:79:31:34:0E
+# http://tv.cloudcdn.me:80/live.ts?channelId=43480&uid=13298&deviceMac=00:1A:79:31:34:0E
+https://mumt07.tangotv.in/zHjX9OFlMAZHAVILMANORAMAHD/index.m3u8
 #EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.postimg.cc/GtQ9hC2J/mazhavil_manorama.jpg" group-title="Malayalam",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetMiddleEast" tvg-logo="https://logos.fandom.com/wiki/Asianet_Middle_East?file=AME.png" group-title="Malayalam",Asianet Middle East (576p)
