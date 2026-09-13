@@ -19,6 +19,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43469&uid=13298&deviceMac=00:1A:79:31
 #KODIPROP:mimetype=application/dash+xml
 #EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://commons.wikimedia.org/wiki/File:Asianet_Plus_Logo.jpg" group-title="Malayalam",Asianet Plus
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
+#EXTINF:-1 tvg-id="Asianet Plus cdn" tvg-logo="https://commons.wikimedia.org/wiki/File:Asianet_Plus_Logo.jpg" group-title="Malayalam",Asianet Plus cdn
 http://tv.cloudcdn.me:80/live.ts?channelId=43472&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
