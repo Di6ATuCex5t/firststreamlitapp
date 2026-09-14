@@ -40,6 +40,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=13298&deviceMac=00:1A:79:31
 http://tv.cloudcdn.me:80/live.ts?channelId=43485&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Surya Comedy HD" tvg-logo="https://i.postimg.cc/vTtd75nq/sun_surya_comedy.png" group-title="Malayalam",Surya Comedy 
 http://tv.cloudcdn.me:80/live.ts?channelId=44158&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Surya Comedy HD" tvg-logo="https://i.postimg.cc/vTtd75nq/sun_surya_movies.png" group-title="Malayalam",Surya Movies 
+http://tv.cloudcdn.me:80/live.ts?channelId=85498&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Mazhavil Manorama HD" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam",Mazhavil Manorama HD
 # http://tv.cloudcdn.me:80/live.ts?channelId=43480&uid=13298&deviceMac=00:1A:79:31:34:0E
 https://mumt07.tangotv.in/zHjX9OFlMAZHAVILMANORAMAHD/index.m3u8
@@ -579,7 +581,7 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 http://stream.mcquack.net/396/index.m3u8
 #EXTINF:-1 tvg-id="Fancode.us@HD" tvg-logo="" group-title="Sports",Fancode
 http://tv.cloudcdn.me:80/live.ts?channelId=49566&uid=13298&deviceMac=00:1A:79:31:34:0E
-http://tv.cloudcdn.me:80/live.ts?channelId=78445&uid=13298&deviceMac=00:1A:79:31:34:0E
+http://tv.cloudcdn.me:80/live.ts?channelId=78845&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 #Pluto
 
