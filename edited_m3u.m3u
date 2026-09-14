@@ -325,7 +325,8 @@ https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
 http://tvsen7.aynascope.net/hbo2/index.m3u8
 #EXTINF:-1 tvg-id="HBOMovies.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/960px-HBO_Movies_Logo.svg.png" group-title="English Movies",HBO Movies (720p)
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-
+#EXTINF:-1 tvg-id="00sReplay.us@SD" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="English Movies",00s Replay
+https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 #Documentary
 
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/26238275e95af4910a79cbed26a9bc73.png" group-title="Documentary",Animal Planet HD
@@ -503,15 +504,30 @@ http://tv.cloudcdn.me:80/live.ts?channelId=78867&uid=13298&deviceMac=00:1A:79:31
 #EXTINF:-1 tvg-id="Ten Sports HD" tvg-logo="https://i.imgur.com/i1KseGo.png" group-title="Sports",Ten Sports HD
 http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony Ten 1 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=13298&deviceMac=00:1A:79:31:34:0E
+# http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=13298&deviceMac=00:1A:79:31:34:0E
+https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8
+#EXTINF:-1 tvg-id="Sony ten 1 SD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony Ten 1 SD
+# http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=13298&deviceMac=00:1A:79:31:34:0E
+https://cloudplay-sonyliv.pages.dev/ten1.m3u8
 #EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Sports",Sony Ten 2 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=13298&deviceMac=00:1A:79:31:34:0E
+https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8
+#EXTINF:-1 tvg-id="Sony ten 2 SD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Sports",Sony Ten 2 SD
+https://cloudplay-sonyliv.pages.dev/ten2.m3u8
 #EXTINF:-1 tvg-id="Sony ten 3 Hindi" tvg-logo="https://i.imgur.com/MXwkKBn.jpeg" group-title="Sports",Sony Ten 3 Hindi
-http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=13298&deviceMac=00:1A:79:31:34:0E
+# http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=13298&deviceMac=00:1A:79:31:34:0E
+https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
+#EXTINF:-1 tvg-id="Sony ten 3 Hindi" tvg-logo="https://i.imgur.com/MXwkKBn.jpeg" group-title="Sports",Sony Ten 3 SD
+# http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=13298&deviceMac=00:1A:79:31:34:0E
+https://cloudplay-sonyliv.pages.dev/ten3.m3u8
 #EXTINF:-1 tvg-id="Sony ten 4 HD" tvg-logo="https://i.imgur.com/fYoa25V.jpeg" group-title="Sports",Sony Ten 4 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Sony ten 4 HD" tvg-logo="https://i.imgur.com/fYoa25V.jpeg" group-title="Sports",Sony Ten 4 Tamil
+https://cloudplay-sonyliv.pages.dev/ten4.m3u8
 #EXTINF:-1 tvg-id="Sony ten 5 HD" tvg-logo="https://i.imgur.com/fYoa25V.jpeg" group-title="Sports",Sony Ten 5 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=13298&deviceMac=00:1A:79:31:34:0E
+# http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=13298&deviceMac=00:1A:79:31:34:0E
+https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8
+#EXTINF:-1 tvg-id="Sony ten 5 " tvg-logo="https://i.imgur.com/fYoa25V.jpeg" group-title="Sports",Sony Ten 5 SD
+https://cloudplay-sonyliv.pages.dev/ten5.m3u8
 #EXTINF:-1 tvg-id="AD Sports 1 HD" tvg-logo="https://i.postimg.cc/jjN7nQwc/abu-dhabi-sports.png" group-title="Sports",Abu Dhabi Sports 1 HD
 https://vod1.jalatech.ps/abu_dhabisport1/index.m3u8?token=0db9279076983e99caf9c11a00e38298
 #EXTINF:-1 tvg-id="AD Sports 2 HD" tvg-logo="https://i.postimg.cc/jjN7nQwc/abu-dhabi-sports.png" group-title="Sports",Abu Dhabi Sports 2 HD
@@ -550,6 +566,9 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="" group-title="Sports",Fox Sports 1 (720p)
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="DynamoKyivTV.ua@SD" tvg-logo="https://i.imgur.com/ymxmyyG.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Dynamo Kyiv TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/396/index.m3u8
 
 #Pluto
 
