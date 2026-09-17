@@ -2662,9 +2662,9 @@ http://148.113.170.17:8091/montamil/index.m3u8
 https://3.proxy.nellaiiptv.com/ANALAI_MOVIE/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="AnalaiExpressCinema" tvg-name-ta="டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AnalaiExpressCinema.png" tvg-region="Canada" group-title="Tamil Local"Analai Express Cinema
 https://3.proxy.nellaiiptv.com/MONTAMIL_CINEMA/index.m3u8?token=GTR
-#EXTINF:-1 tvg-id="AnalaiMusic" tvg-name-ta="டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AnalaiMusic.png" tvg-region="Canada" group-title="Tamil Local;Music",Analai Music
+#EXTINF:-1 tvg-id="AnalaiMusic" tvg-name-ta="டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AnalaiMusic.png" tvg-region="Canada" group-title="Tamil Local",Analai Music
 http://148.113.170.17:8091/analaimusic/index.m3u8
-#EXTINF:-1 tvg-id="AnalaiExpressReplay" tvg-name-ta="டிவி" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240314_0109167221661575844903220.png" tvg-region="Canada" group-title="Tamil Local;Tamil Local",Analai Express Replay
+#EXTINF:-1 tvg-id="AnalaiExpressReplay" tvg-name-ta="டிவி" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240314_0109167221661575844903220.png" tvg-region="Canada" group-title="Tamil Local",Analai Express Replay
 http://148.113.170.17:8091/analaireplay1/index.m3u8
 #EXTINF:-1 tvg-id="RudhramTV" tvg-name-ta="ருத்ரம் டிவி" tvg-logo="" tvg-region="Canada" group-title="Tamil Local;Tamil Local",Rudhram TV
 http://148.113.170.17:8091/rudhram/index.m3u8
