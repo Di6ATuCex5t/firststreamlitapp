@@ -2666,7 +2666,7 @@ https://3.proxy.nellaiiptv.com/MONTAMIL_CINEMA/index.m3u8?token=GTR
 http://148.113.170.17:8091/analaimusic/index.m3u8
 #EXTINF:-1 tvg-id="AnalaiExpressReplay" tvg-name-ta="டிவி" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240314_0109167221661575844903220.png" tvg-region="Canada" group-title="Tamil Local",Analai Express Replay
 http://148.113.170.17:8091/analaireplay1/index.m3u8
-#EXTINF:-1 tvg-id="RudhramTV" tvg-name-ta="ருத்ரம் டிவி" tvg-logo="" tvg-region="Canada" group-title="Tamil Local;Tamil Local",Rudhram TV
+#EXTINF:-1 tvg-id="RudhramTV" tvg-name-ta="ருத்ரம் டிவி" tvg-logo="" tvg-region="Canada" group-title="Tamil Local",Rudhram TV
 http://148.113.170.17:8091/rudhram/index.m3u8
 #EXTINF:-1 tvg-id="MAPATV" tvg-name-ta="மக்கள்பணி டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MakkalpaniTV.png" tvg-region="Nagercoil;Kanyakumari" group-title="Tamil Local"Makkalpani TV
 https://play.applelive.in/mapatv/mapatv.m3u8
@@ -3072,13 +3072,13 @@ https://sanplayout.xyz/live2/retromusichd/playlist.m3u8
 https://app.xstream.onecloudlive.in/maduraiarasi/livestream/index.m3u8
 #EXTINF:-1 tvg-id="EuroTamil" tvg-name-ta="யூரோ தமிழ்" tvg-logo="https://i.ibb.co/xSgwy63x/Eurotamil-logo-V3.png" tvg-region="Europe" group-title="Tamil Local",Euro Tamil
 https://3.proxy.nellaiiptv.com/DINESH/EURO/index.m3u8?token=YAAL
-#EXTINF:-1 tvg-id="NRJTV" tvg-name-ta="NRJ டிவி" tvg-logo="https://i.ibb.co/rRGbbWJd/1-copy.png" tvg-region="Unknown" group-title="Tamil Local;Tamil Local",NRJ TV
+#EXTINF:-1 tvg-id="NRJTV" tvg-name-ta="NRJ டிவி" tvg-logo="https://i.ibb.co/rRGbbWJd/1-copy.png" tvg-region="Unknown" group-title="Tamil Local",NRJ TV
 https://3.proxy.nellaiiptv.com/DINESH/NRJTV/index.m3u8?token=YAAL
 #EXTINF:-1 tvg-id="PJTV" tvg-name-ta="PJ டிவி" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782102762.webp" tvg-region="Unknown" group-title="Tamil Local",PJ TV
 https://3.proxy.nellaiiptv.com/DINESH/PJTV/index.m3u8?token=YAAL
 #EXTINF:-1 tvg-id="EyeTamil" tvg-name-ta="ஐ தமிழ்" tvg-logo="https://i.ibb.co/60gWgPP3/eye.png" tvg-region="Unknown" group-title="Tamil Local",Eye Tamil
 https://2.proxy.nellaiiptv.com/EyeMedia/EyeTV/index.m3u8
-#EXTINF:-1 tvg-id="EyeTamilMusic" tvg-name-ta="ஐ தமிழ் மியூசிக்" tvg-logo="https://i.ibb.co/nqp6JC71/eye-music.png" tvg-region="Unknown" group-title="Tamil Local;Music",Eye Tamil Music
+#EXTINF:-1 tvg-id="EyeTamilMusic" tvg-name-ta="ஐ தமிழ் மியூசிக்" tvg-logo="https://i.ibb.co/nqp6JC71/eye-music.png" tvg-region="Unknown" group-title="Tamil Local",Eye Tamil Music
 https://2.proxy.nellaiiptv.com/EyeMedia/music/index.m3u8
 #EXTINF:-1 tvg-id="EyeTamilComedy" tvg-name-ta="ஐ தமிழ் காமெடி" tvg-logo="https://i.ibb.co/KxLRTs3D/eye-comedy.png" tvg-region="Unknown" group-title="Tamil Local",Eye Tamil Comedy 
 https://2.proxy.nellaiiptv.com/EyeMedia/comedy/index.m3u8
