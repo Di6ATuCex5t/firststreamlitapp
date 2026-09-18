@@ -55,6 +55,7 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 http://tv.cloudcdn.me:80/live.ts?channelId=43473&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="AmritaTV.in@SD" tvg-name="AmritaTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lc41SLmKKTgccE82ZXf7Gd-4_vJGEZHJ2y7qA5iIcq3Rs=s160-c-k-c0x00ffffff-no-rj" group-title="Malayalam",Amrita TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
+https://cdn.pishow.tv/ott/live/225/master.m3u8
 #EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-name="Kairali TV" tvg-logo= "https://yt3.googleusercontent.com/xQxOUh8hCgAmWqOh-2B7SXyqVglpgoEonidbWCRJ_V3pXKp-Le7FqPwherzpkpKjUXtejdeM2g=s160-c-k-c0x00ffffff-no-rj" group-title="Malayalam",Kairali TV
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=43476&uid=13298&deviceMac=00:1A:79:31:34:0E
@@ -151,6 +152,7 @@ https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 https://cdn-3.pishow.tv/live/1629/master.m3u8
 #EXTINF:-1 tvg-id="Manorama News" tvg-logo="https://i.imgur.com/n9ABnlu.jpeg" group-title="Malayalam News",Manorama News
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
+# https://cdn.pishow.tv/ott/live/463/master.m3u8
 #EXTINF:-1 tvg-id="Mathrubhumi News" tvg-logo="https://i.imgur.com/ANh7Zpg.jpeg" group-title="Malayalam News",Mathrubhumi News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
 #EXTINF:-1 tvg-id="Janam TV " tvg-logo="https://i.imgur.com/rSu5A45.jpeg" group-title="Malayalam News",Janam TV
@@ -198,7 +200,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=85499&uid=13298&deviceMac=00:1A:79:31
 #EXTINF:-1 tvg-id="NDTV Profit" tvg-logo="https://i.postimg.cc/NF494Cw8/NDTV_Profit.jpg" group-title="English News",NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 #EXTINF:-1 tvg-id="Republic TV" tvg-logo="https://i.postimg.cc/HL8C9JCb/Republic-TV.png" group-title="English News",Republic TV
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
+# https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
+https://cdn.pishow.tv/ott/live/271/master.m3u8
 #EXTINF:-1 tvg-id="ETNow"tvg-logo="https://en.wikipedia.org/wiki/ET_Now#/media/File:ET_Now_logo.svg" group-title="English News",ET Now (720p)
 #EXTVLCOPT:http-referrer=https://www.timesnownews.com/
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
