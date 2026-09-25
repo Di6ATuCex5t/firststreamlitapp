@@ -202,6 +202,8 @@ https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 #EXTINF:-1 tvg-id="Republic TV" tvg-logo="https://i.postimg.cc/HL8C9JCb/Republic-TV.png" group-title="English News",Republic TV
 # https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
 https://cdn.pishow.tv/ott/live/271/master.m3u8
+#EXTINF:-1 tvg-id="CNN news18 TV" tvg-logo="https://en.wikipedia.org/wiki/File:CNN-News18_logo.png" group-title="English News",CNN news18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="ETNow"tvg-logo="https://en.wikipedia.org/wiki/ET_Now#/media/File:ET_Now_logo.svg" group-title="English News",ET Now (720p)
 #EXTVLCOPT:http-referrer=https://www.timesnownews.com/
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
