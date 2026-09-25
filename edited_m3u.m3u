@@ -221,10 +221,20 @@ https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8
 https://media-osa.hls.nhkworld.jp/hls/wp/live/master.m3u8
 #EXTINF:-1 tvg-id="DWTV.in@SD"tvg-logo="https://en.wikipedia.org/wiki/DW-TV#/media/File:Deutsche_Welle_symbol_2012.svg" group-title="English News",DWTV
 https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
+#EXTINF:-1 tvg-id="CNA.in@SD"tvg-logo="https://en.wikipedia.org/wiki/DW-TV#/media/File:Deutsche_Welle_symbol_2012.svg" group-title="English News",CNA
+https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
+#EXTINF:-1 tvg-id="Euro News.in@SD"tvg-logo="https://en.wikipedia.org/wiki/DW-TV#/media/File:Deutsche_Welle_symbol_2012.svg" group-title="English News",Euro News 
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1 tvg-id="TELESUR VENEZUELA News.in@SD"tvg-logo="https://en.wikipedia.org/wiki/DW-TV#/media/File:Deutsche_Welle_symbol_2012.svg" group-title="English News",ELESUR VENEZUELA
+https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="English News",ABC News (720p)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="Africa24English.fr@SD" tvg-logo="https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png" group-title="English News",Africa 24 English (1080p)
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+#EXTINF:-1 tvg-id="TRT.in@SD"tvg-logo="https://en.wikipedia.org/wiki/DW-TV#/media/File:Deutsche_Welle_symbol_2012.svg" group-title="English News",TRT World
+https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
+
+
 
 # Kannada News
 
