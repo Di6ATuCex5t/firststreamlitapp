@@ -217,6 +217,8 @@ https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/
 http://45.190.28.50/FOX_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="Russia today.fr@Poland" tvg-logo="https://en.wikipedia.org/wiki/File:Russia-today-logo.svg" group-title="English News",RT (720p)
 https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8
+#EXTINF:-1 tvg-id="NHK world.fr@Poland" tvg-logo="https://en.wikipedia.org/wiki/NHK_World-Japan#/media/File:NHK_World.svg" group-title="English News",NHK world (720p)
+https://media-osa.hls.nhkworld.jp/hls/wp/live/master.m3u8
 #EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="English News",ABC News (720p)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="Africa24English.fr@SD" tvg-logo="https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png" group-title="English News",Africa 24 English (1080p)
