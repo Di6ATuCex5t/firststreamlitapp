@@ -218,7 +218,7 @@ http://45.190.28.50/FOX_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="Russia today.fr@Poland" tvg-logo="https://en.wikipedia.org/wiki/File:Russia-today-logo.svg" group-title="English News",RT (720p)
 https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8
 #EXTINF:-1 tvg-id="NHK world.fr@Poland" tvg-logo="https://en.wikipedia.org/wiki/NHK_World-Japan#/media/File:NHK_World.svg" group-title="English News",NHK world (720p)
-https://media-osa.hls.nhkworld.jp/hls/wp/live/master.m3u8
+https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
 #EXTINF:-1 tvg-id="DWTV.in@SD"tvg-logo="https://en.wikipedia.org/wiki/DW-TV#/media/File:Deutsche_Welle_symbol_2012.svg" group-title="English News",DWTV
 https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
 #EXTINF:-1 tvg-id="CNA.in@SD"tvg-logo="https://en.wikipedia.org/wiki/DW-TV#/media/File:Deutsche_Welle_symbol_2012.svg" group-title="English News",CNA
