@@ -20,7 +20,8 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://commons.wikimedia.org/wiki/File:Asianet_Plus_Logo.jpg" group-title="Malayalam",Asianet Plus
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
 #EXTINF:-1 tvg-id="Asianet Plus cdn" tvg-logo="https://commons.wikimedia.org/wiki/File:Asianet_Plus_Logo.jpg" group-title="Malayalam",Asianet Plus cdn
-http://tv.cloudcdn.me:80/live.ts?channelId=43472&uid=13298&deviceMac=00:1A:79:31:34:0E
+# http://tv.cloudcdn.me:80/live.ts?channelId=43472&uid=13298&deviceMac=00:1A:79:31:34:0E
+http://tv.cloudcdn.me:80/live.ts?channelId=154&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -336,8 +337,16 @@ https://live.skystream.in/live/networkpayyanur/index.m3u8
 https://live.skystream.in/live/southvsnklm/index.m3u8
 
 #EnglishMovies
-
-
+#EXTINF:-1 tvg-id="Star Movies" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Star Movies 
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Star Movies SELECt HD" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Star Movies SELECT HD
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Movies NOW" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Movies NOW
+http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Sony Pix" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Sony Pix
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="AXN Black" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",AXN Black
+http://tv.cloudcdn.me:80/live.ts?channelId=170&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sony Movies" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony One Action Hits" tvg-logo="https://i.postimg.cc/kXyrp2c8/SONY-ONE-ACTION-HITS.jpg" group-title="English Movies",Sony One Action
@@ -363,7 +372,7 @@ https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
 #EXTINF:-1 tvg-id="HBOHits.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png" group-title="English Movies",HBO Hits (720p)
 http://tvsen7.aynascope.net/hbo2/index.m3u8
 #EXTINF:-1 tvg-id="HBOMovies.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/960px-HBO_Movies_Logo.svg.png" group-title="English Movies",HBO Movies (720p)
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=206n&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="00sReplay.us@SD" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="English Movies",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 #EXTINF:-1 tvg-id="Movies.us@SD" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="English Movies",Movies
@@ -520,7 +529,7 @@ http://acv.7starcloud.com:1935/tamilstar/tv/playlist.m3u8
 
 #Sports
 #EXTINF:-1 tvg-id="Sky sports cricket" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="Sports", Sky sports cricket
-https://leaf.highfly.dev/m3u/now-sky-sports-cricket/live.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=281&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Sports 1 Hindi HD tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 Hindi HD
 http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Sports 1 Tamil HD" tvg-logo="https://i.imgur.com/SiXTPfT.jpeg" group-title="Sports",Star Sports 1 Tamil HD
