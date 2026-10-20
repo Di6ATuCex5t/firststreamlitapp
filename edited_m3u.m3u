@@ -341,6 +341,10 @@ https://live.skystream.in/live/networkpayyanur/index.m3u8
 https://live.skystream.in/live/southvsnklm/index.m3u8
 
 #EnglishMovies
+#EXTINF:-1 tvg-id="Seinfeld" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Seinfeld
+https://watch-episodes.seinfeld626.com/hls/seinfeld/master.m3u8
+#EXTINF:-1 tvg-id="Seinfeld" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Seinfeld 2
+https://watch-episodes.seinfeld626.com/hls/seinfeld2/master.m3u8
 #EXTINF:-1 tvg-id="Star Movies" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Star Movies 
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Movies SELECt HD" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Star Movies SELECT HD
