@@ -193,7 +193,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-id="India Today" tvg-logo="https://i.imgur.com/tEgjSyj.jpeg" group-title="English News",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-id="Times Now" tvg-logo="https://i.imgur.com/nVAFi0b.jpeg" group-title="English News",Times Now
-http://tv.cloudcdn.me:80/live.ts?channelId=204&uid=13298&deviceMac=00:1A:79:31:34:0E
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="NDTV 24x7" tvg-logo="https://commons.wikimedia.org/wiki/File:NDTV_logo.svg" group-title="English News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="TOI Global" tvg-logo="https://i.postimg.cc/tTbdjXhF/TOI.png" group-title="English News",Times Of India Global
