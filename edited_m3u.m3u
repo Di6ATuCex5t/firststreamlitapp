@@ -214,7 +214,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=85499&uid=13298&deviceMac=00:1A:79:31
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 #EXTINF:-1 tvg-id="Republic TV" tvg-logo="https://i.postimg.cc/HL8C9JCb/Republic-TV.png" group-title="English News",Republic TV
 # https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
-https://cdn.pishow.tv/ott/live/271/master.m3u8
+# https://cdn.pishow.tv/ott/live/271/master.m3u8
+https://amg01218-amg01218c6-amgplt0915.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01218-amg01218c6-amgplt0915/dbcd2e6c-cc8a-11f1-831d-56b52461577a/141/1920x1080_5060000/index.m3u8
 #EXTINF:-1 tvg-id="CNN news18 TV" tvg-logo="https://en.wikipedia.org/wiki/File:CNN-News18_logo.png" group-title="English News",CNN news18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="ETNow"tvg-logo="https://en.wikipedia.org/wiki/ET_Now#/media/File:ET_Now_logo.svg" group-title="English News",ET Now (720p)
