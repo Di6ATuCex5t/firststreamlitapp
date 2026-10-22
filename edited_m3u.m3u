@@ -198,7 +198,7 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-id="Times Now" tvg-logo="https://i.imgur.com/nVAFi0b.jpeg" group-title="English News",Times Now
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="Mirror Now" tvg-logo="https://i.imgur.com/nVAFi0b.jpeg" group-title="English News",Times Now
-https://dai.google.com/linear/hls/pb/event/ClPOullTQky5vGPf7fMZ8g/stream/d4abee52-9ef1-4e4d-bf88-bb3e0019ce4f:TPE/variant/08812c4c0f7f220bbdf185d5aa305448/bandwidth/1592800.m3u8
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MirrorNow.m3u8
 #EXTINF:-1 tvg-id="NDTV 24x7" tvg-logo="https://commons.wikimedia.org/wiki/File:NDTV_logo.svg" group-title="English News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="TOI Global" tvg-logo="https://i.postimg.cc/tTbdjXhF/TOI.png" group-title="English News",Times Of India Global
