@@ -37,7 +37,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43470&uid=13298&deviceMac=00:1A:79:31
 https://cdn.pishow.tv/ott/live/1530/master.m3u8
 
 #EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" group-title="Malayalam",Surya TV HD
-http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=13298&deviceMac=00:1A:79:31:34:0E
+# http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=13298&deviceMac=00:1A:79:31:34:0E
+https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="Surya Music HD" tvg-logo="https://i.postimg.cc/vTtd75nq/sun_surya_music.png" group-title="Malayalam",Surya Music 
 http://tv.cloudcdn.me:80/live.ts?channelId=43485&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Surya Comedy HD" tvg-logo="https://i.postimg.cc/vTtd75nq/sun_surya_comedy.png" group-title="Malayalam",Surya Comedy 
