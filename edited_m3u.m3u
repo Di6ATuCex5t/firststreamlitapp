@@ -240,7 +240,7 @@ https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="English News",Fox News Channel (720p)
 #EXTVLCOPT:http-referrer=https://usnewson.com/
 https://p14.usnlive.com/stream/foxnews.m3u8
-#EXTINF:-1 tvg-id="MSNOW.us@SD"tvg-logo="https://commons.wikimedia.org/wiki/File:CNBC_TV18.png" group-title="English News",,MS NOW
+#EXTINF:-1 tvg-id="MSNOW.us@SD"tvg-logo="https://commons.wikimedia.org/wiki/File:CNBC_TV18.png" group-title="English News",MS NOW
 #EXTVLCOPT:http-referrer=https://usnewson.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
 https://p13.usnlive.com/stream/msnbc.m3u8
