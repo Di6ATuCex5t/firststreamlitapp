@@ -176,6 +176,23 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
 # https://mumt01.tangotv.in/O5aw8Zn3KAIRALINEWS/index.m3u8
 https://cdn.pishow.tv/ott/live/1469/master.m3u8
 
+#Business News
+
+#EXTINF:-1 tvg-id="ETNow"tvg-logo="https://en.wikipedia.org/wiki/ET_Now#/media/File:ET_Now_logo.svg" group-title="Business News",ET Now (720p)
+#EXTVLCOPT:http-referrer=https://www.timesnownews.com/
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
+#EXTINF:-1 tvg-id="Business Today TV" tvg-logo="https://en.wikipedia.org/wiki/File:CNN-News18_logo.png" group-title="Business News",Business Today 
+https://bttvlive-amd.akamaized.net/hls/live/2096488/live/bttv/bttv4/chunklist.m3u8
+#EXTINF:-1 tvg-id="NDTV Profit" tvg-logo="https://i.postimg.cc/NF494Cw8/NDTV_Profit.jpg" group-title="Business News",NDTV Profit
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
+#EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in@SD"tvg-logo="https://commons.wikimedia.org/wiki/File:CNBC_TV18.png" group-title="Business News",CNBC TV18 Prime HD (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="CNBCTV18.in@SD"tvg-logo="https://commons.wikimedia.org/wiki/File:CNBC_TV18.png" group-title="Business News",CNBC TV18 (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="yahoo finance.in@SD"tvg-logo="https://commons.wikimedia.org/wiki/File:CNBC_TV18.png" group-title="Business News",yahoo finance
+https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergAsia@SD"tvg-logo="https://commons.wikimedia.org/wiki/File:CNBC_TV18.png" group-title="Business News",BloombergAsia
+https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 #English News
 #EXTINF:-1 tvg-id="Al Arabiya News" tvg-logo="https://i.imgur.com/JyKBuhT.jpeg" group-title="English News",Al Arabiya News
@@ -187,7 +204,7 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="BBC News HD" tvg-logo="https://i.imgur.com/JzSl1sK.jpeg" group-title="English News",BBC News HD
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-id="BBCNews.uk@UK" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="English News",BBC News UK(1080p)
-https://xemzi.short.gy/1000015
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://usnewson.com
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.postimg.cc/HWfYF3XB/cnn.png" group-title="English News",CNN HD
 https://p13.usnlive.com/stream/cnn.m3u8
@@ -200,7 +217,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_cha
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-id="Times Now" tvg-logo="https://i.imgur.com/nVAFi0b.jpeg" group-title="English News",Times Now
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="Mirror Now" tvg-logo="https://i.imgur.com/nVAFi0b.jpeg" group-title="English News",Times Now
+#EXTINF:-1 tvg-id="Mirror Now" tvg-logo="https://i.imgur.com/nVAFi0b.jpeg" group-title="English News",Mirror Now
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MirrorNow.m3u8
 #EXTINF:-1 tvg-id="NDTV 24x7" tvg-logo="https://commons.wikimedia.org/wiki/File:NDTV_logo.svg" group-title="English News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
@@ -216,25 +233,14 @@ https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="Wion" tvg-logo="https://en.wikipedia.org/wiki/WION#/media/File:WION_news_Logo.svg" group-title="English News",Wion
 http://tv.cloudcdn.me:80/live.ts?channelId=85499&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="NDTV Profit" tvg-logo="https://i.postimg.cc/NF494Cw8/NDTV_Profit.jpg" group-title="English News",NDTV Profit
-https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 #EXTINF:-1 tvg-id="Republic TV" tvg-logo="https://i.postimg.cc/HL8C9JCb/Republic-TV.png" group-title="English News",Republic TV
 # https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
 https://cdn.pishow.tv/ott/live/271/master.m3u8
 # https://amg01218-amg01218c6-amgplt0915.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01218-amg01218c6-amgplt0915/dbcd2e6c-cc8a-11f1-831d-56b52461577a/141/1920x1080_5060000/index.m3u8
 #EXTINF:-1 tvg-id="CNN news18 TV" tvg-logo="https://en.wikipedia.org/wiki/File:CNN-News18_logo.png" group-title="English News",CNN news18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="ETNow"tvg-logo="https://en.wikipedia.org/wiki/ET_Now#/media/File:ET_Now_logo.svg" group-title="English News",ET Now (720p)
-#EXTVLCOPT:http-referrer=https://www.timesnownews.com/
-https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
-#EXTINF:-1 tvg-id="Business Today TV" tvg-logo="https://en.wikipedia.org/wiki/File:CNN-News18_logo.png" group-title="English News",Business Today 
-https://bttvlive-amd.akamaized.net/hls/live/2096488/live/bttv/bttv4/chunklist.m3u8
-#EXTINF:-1 tvg-id="CNBCTV18.in@SD"tvg-logo="https://commons.wikimedia.org/wiki/File:CNBC_TV18.png" group-title="English News",CNBC TV18 (1080p)
-https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="NBCTV.in@SD"tvg-logo="https://commons.wikimedia.org/wiki/File:CNBC_TV18.png" group-title="English News",NBC TV(1080p)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
-#EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in@SD"tvg-logo="https://commons.wikimedia.org/wiki/File:CNBC_TV18.png" group-title="English News",CNBC TV18 Prime HD (1080p)
-https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="NewsX World.in@SD"tvg-logo="https://commons.wikimedia.org/wiki/File:CNBC_TV18.png" group-title="English News",NewsX World
 https://cdn.pishow.tv/ott/live/1049/master.m3u8
 #EXTINF:-1 tvg-id="NorthEast Live.in@SD"tvg-logo="https://commons.wikimedia.org/wiki/File:CNBC_TV18.png" group-title="English News",NorthEast Live
@@ -255,20 +261,19 @@ https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8
 #EXTINF:-1 tvg-id="NHK world.fr@Poland" tvg-logo="https://en.wikipedia.org/wiki/NHK_World-Japan#/media/File:NHK_World.svg" group-title="English News",NHK world (720p)
 https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
 #EXTINF:-1 tvg-id="DWTV.in@SD"tvg-logo="https://en.wikipedia.org/wiki/DW-TV#/media/File:Deutsche_Welle_symbol_2012.svg" group-title="English News",DWTV
-https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
+https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
 #EXTINF:-1 tvg-id="CNA.in@SD"tvg-logo="https://en.wikipedia.org/wiki/DW-TV#/media/File:Deutsche_Welle_symbol_2012.svg" group-title="English News",CNA
 https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
 #EXTINF:-1 tvg-id="Euro News.in@SD"tvg-logo="https://en.wikipedia.org/wiki/DW-TV#/media/File:Deutsche_Welle_symbol_2012.svg" group-title="English News",Euro News 
-# https://live2.eu-north-1a.cf.dmcdn.net/sec2(BfG8JzETCiezILhf9CXZ0BFHAHnoTBaTevHir-nVioNh9Te5K51lMdNjVloWWjpFsi-mZlYrMfTOtgBywPlHxDBJUzb1Ju495qRa-S9ni7lPAXHfrdt-8a0aZf3Donv7WsI20uVzKWYe-doWRiRbOB14fW66HIxFgx6_5b2neFl1rp4DQI9smog8O3YOO79W)/cloud/4/xar7p26/live-h264-720.m3u8
-https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:-1 tvg-id="TELESUR VENEZUELA News.in@SD"tvg-logo="https://en.wikipedia.org/wiki/DW-TV#/media/File:Deutsche_Welle_symbol_2012.svg" group-title="English News",ELESUR VENEZUELA
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+#EXTINF:-1 tvg-id="TELESUR VENEZUELA News.in@SD"tvg-logo="https://en.wikipedia.org/wiki/DW-TV#/media/File:Deutsche_Welle_symbol_2012.svg" group-title="English News",TELESUR VENEZUELA
 https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="English News",ABC News (720p)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="Africa24English.fr@SD" tvg-logo="https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png" group-title="English News",Africa 24 English (1080p)
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 #EXTINF:-1 tvg-id="TRT.in@SD"tvg-logo="https://en.wikipedia.org/wiki/DW-TV#/media/File:Deutsche_Welle_symbol_2012.svg" group-title="English News",TRT World
-https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TVP.in@SD"tvg-logo="https://en.wikipedia.org/wiki/DW-TV#/media/File:Deutsche_Welle_symbol_2012.svg" group-title="English News",TVP World Poland
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 
