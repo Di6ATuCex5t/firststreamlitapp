@@ -563,6 +563,15 @@ https://app.ashokadigital.net/app/67a779e9/index.m3u8
 # FM Stations
 #EXTINF:-1 tvg-id="RadioMango" tvg-name="ClubFM" tvg-logo="https://yt3.googleusercontent.com/Z8mLUr5CaR9js_9eXy1gS4wg4y-UW2eRPcnIAsZBCyjyy3DzcGxWoo8Y-Ygs9SN8EpKRbe0rAD8=s900-c-k-c0x00ffffff-no-rj" group-title="FM Stations",RadioMango
 https://listen.openstream.co/4635/audio
+#EXTINF:-1 tvg-id="Radio Malayalam" tvg-name="ClubFM" tvg-logo="https://liveradios.in/wp-content/uploads/radiomalayalam.jpg" group-title="FM Stations",Radio Malayalam
+https://stream.qfmradio.qa/986fm
+#EXTINF:-1 tvg-id="Radio Kerala" tvg-name="ClubFM" tvg-logo="https://liveradios.in/wp-content/uploads/radio-kerala.jpg" group-title="FM Stations",Radio Kerala
+https://ice31.securenetsystems.net/RADIOKERAL
+#EXTINF:-1 tvg-id="Radio Mirchi" tvg-name="ClubFM" tvg-logo="https://liveradios.in/wp-content/uploads/RadioMirchi-logo.jpg" group-title="FM Stations",Radio Mirchi
+https://stream.aiir.com/dbv0rxpwp6ytv
+
+
+
 
 # Tamil Movies
 #EXTINF:-1 tvg-id="TharunMovies" tvg-name="TharunMovies" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739599242_IMG_20250215_111845_234.png&w=1920&q=75" group-title="Tamil Movies",Tharun Movies
