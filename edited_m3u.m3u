@@ -217,7 +217,7 @@ https://cdn.pishow.tv/ott/live/10015/master.m3u8
 
 #Hindi News
 #EXTINF:-1 tvg-id="Aaj Tak" tvg-logo="" group-title="Hindi News",Aaj Tak
-https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="ABP News" tvg-logo="" group-title="Hindi News",ABP News
 https://mumt04.tangotv.in/m18aqlK4ABPNEWS/index.m3u8
 #EXTINF:-1 tvg-id="India tv News" tvg-logo="" group-title="Hindi News",India tv News
