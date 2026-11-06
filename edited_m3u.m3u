@@ -194,10 +194,31 @@ https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergAsia@SD"tvg-logo="https://commons.wikimedia.org/wiki/File:CNBC_TV18.png" group-title="Business News",BloombergAsia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
+#Indian English News
+
+#EXTINF:-1 tvg-id="India Today" tvg-logo="https://i.imgur.com/tEgjSyj.jpeg" group-title="Indian English News",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 tvg-id="Times Now" tvg-logo="https://i.imgur.com/nVAFi0b.jpeg" group-title="Indian English News",Times Now
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="Mirror Now" tvg-logo="https://i.imgur.com/nVAFi0b.jpeg" group-title="Indian English News",Mirror Now
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MirrorNow.m3u8
+#EXTINF:-1 tvg-id="NDTV 24x7" tvg-logo="https://commons.wikimedia.org/wiki/File:NDTV_logo.svg" group-title="Indian English News",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-id="Wion" tvg-logo="https://en.wikipedia.org/wiki/WION#/media/File:WION_news_Logo.svg" group-title="Indian English News",Wion
+http://tv.cloudcdn.me:80/live.ts?channelId=85499&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Republic TV" tvg-logo="https://i.postimg.cc/HL8C9JCb/Republic-TV.png" group-title="Indian English News",Republic TV
+# https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
+https://cdn.pishow.tv/ott/live/271/master.m3u8
+# https://amg01218-amg01218c6-amgplt0915.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01218-amg01218c6-amgplt0915/dbcd2e6c-cc8a-11f1-831d-56b52461577a/141/1920x1080_5060000/index.m3u8
+#EXTINF:-1 tvg-id="CNN news18 TV" tvg-logo="https://en.wikipedia.org/wiki/File:CNN-News18_logo.png" group-title="Indian English News",CNN news18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="NorthEast Live.in@SD"tvg-logo="https://commons.wikimedia.org/wiki/File:CNBC_TV18.png" group-title="Indian English News",NorthEast Live
+https://cdn.pishow.tv/ott/live/10015/master.m3u8
+
 #English News
 #EXTINF:-1 tvg-id="Al Arabiya News" tvg-logo="https://i.imgur.com/JyKBuhT.jpeg" group-title="English News",Al Arabiya News
 https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="Presstv Iran" tvg-logo="https://i.imgur.com/JyKBuhT.jpeg" group-title="English News",Presstv Iran
+#EXTINF:-1 tvg-id="Presstv Iran" tvg-logo="https://www.presstv.co.uk/new/assets/square-logo.JPG" group-title="English News",Presstv Iran
 https://live.presstv.co.uk/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera HD" tvg-logo="https://i.imgur.com/JyKBuhT.jpeg" group-title="English News",Al Jazeera HD
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
@@ -213,14 +234,6 @@ https://p13.usnlive.com/stream/cnn.m3u8
 https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8
 #EXTINF:-1 tvg-id="Sky News HD" tvg-logo="https://i.imgur.com/nYRPdry.jpeg" group-title="English News",Sky News HD
 https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223
-#EXTINF:-1 tvg-id="India Today" tvg-logo="https://i.imgur.com/tEgjSyj.jpeg" group-title="English News",India Today
-https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 tvg-id="Times Now" tvg-logo="https://i.imgur.com/nVAFi0b.jpeg" group-title="English News",Times Now
-https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="Mirror Now" tvg-logo="https://i.imgur.com/nVAFi0b.jpeg" group-title="English News",Mirror Now
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MirrorNow.m3u8
-#EXTINF:-1 tvg-id="NDTV 24x7" tvg-logo="https://commons.wikimedia.org/wiki/File:NDTV_logo.svg" group-title="English News",NDTV 24x7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="TOI Global" tvg-logo="https://i.postimg.cc/tTbdjXhF/TOI.png" group-title="English News",Times Of India Global
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
 #EXTINF:-1 tvg-id="100NEWS.ua@SD" tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="English News",100% News (576p)
@@ -231,20 +244,10 @@ http://23.237.104.106:8080/USA_OAN/index.m3u8
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="English NewsWorld.hk@FAST" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png" group-title="English News",NewsWorld (1080p)
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-id="Wion" tvg-logo="https://en.wikipedia.org/wiki/WION#/media/File:WION_news_Logo.svg" group-title="English News",Wion
-http://tv.cloudcdn.me:80/live.ts?channelId=85499&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Republic TV" tvg-logo="https://i.postimg.cc/HL8C9JCb/Republic-TV.png" group-title="English News",Republic TV
-# https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
-https://cdn.pishow.tv/ott/live/271/master.m3u8
-# https://amg01218-amg01218c6-amgplt0915.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01218-amg01218c6-amgplt0915/dbcd2e6c-cc8a-11f1-831d-56b52461577a/141/1920x1080_5060000/index.m3u8
-#EXTINF:-1 tvg-id="CNN news18 TV" tvg-logo="https://en.wikipedia.org/wiki/File:CNN-News18_logo.png" group-title="English News",CNN news18
-https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="NBCTV.in@SD"tvg-logo="https://commons.wikimedia.org/wiki/File:CNBC_TV18.png" group-title="English News",NBC TV(1080p)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 #EXTINF:-1 tvg-id="NewsX World.in@SD"tvg-logo="https://commons.wikimedia.org/wiki/File:CNBC_TV18.png" group-title="English News",NewsX World
 https://cdn.pishow.tv/ott/live/1049/master.m3u8
-#EXTINF:-1 tvg-id="NorthEast Live.in@SD"tvg-logo="https://commons.wikimedia.org/wiki/File:CNBC_TV18.png" group-title="English News",NorthEast Live
-https://cdn.pishow.tv/ott/live/10015/master.m3u8
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr@Poland" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="English News",Africanews (720p)
 https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="English News",Fox News Channel (720p)
@@ -287,7 +290,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
 https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="RepublicKannada.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RSYMDOTKANNADA/images/LOGO_HD/image.png" group-title="Kannada News",Republic Kannada (1080p)
-https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8
+https://streams.tangotv.in/REPUBLICKANNADA/ORIGIN/index.m3u8
 
 #Tamil
 #EXTINF:-1 tvg-id="Sun TV hd" tvg-logo="https://i.postimg.cc/tCPsM4RB/Sun_Tv_HD.png" group-title="Tamil",Sun TV HD
