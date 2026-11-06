@@ -215,6 +215,14 @@ https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m
 #EXTINF:-1 tvg-id="NorthEast Live.in@SD"tvg-logo="https://commons.wikimedia.org/wiki/File:CNBC_TV18.png" group-title="Indian English News",NorthEast Live
 https://cdn.pishow.tv/ott/live/10015/master.m3u8
 
+#Hindi News
+#EXTINF:-1 tvg-id="Aaj Tak" tvg-logo="" group-title="Hindi News",Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+#EXTINF:-1 tvg-id="ABP News" tvg-logo="" group-title="Hindi News",ABP News
+https://mumt04.tangotv.in/m18aqlK4ABPNEWS/index.m3u8
+#EXTINF:-1 tvg-id="India tv News" tvg-logo="" group-title="Hindi News",India tv News
+https://streams.tangotv.in/INDIATV/ORIGIN/index.m3u8
+
 #English News
 #EXTINF:-1 tvg-id="Al Arabiya News" tvg-logo="https://i.imgur.com/JyKBuhT.jpeg" group-title="English News",Al Arabiya News
 https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
