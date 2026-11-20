@@ -120,7 +120,7 @@ https://cdn.pishow.tv/ott/live/1469/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="NVision" tvg-name-ml="" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739890627_WhatsApp_Image_2025-02-18_at_8.25.19_PM__1_-removebg-preview.png" tvg-region="Palakkad" group-title="Local",N Vision
 https://ipcloud.live/nvision/nvisionhd/index.m3u8
-#EXTINF:-1 tvg-id="NVisionMusic" tvg-name-ml="" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739890605_WhatsApp_Image_2025-02-18_at_8.25.19_PM-removebg-preview.png" tvg-region="Palakkad" group-title="Local",N Vision ,Music
+#EXTINF:-1 tvg-id="NVisionMusic" tvg-name-ml="" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739890605_WhatsApp_Image_2025-02-18_at_8.25.19_PM-removebg-preview.png" tvg-region="Palakkad" group-title="Local",N Vision Music
 https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
 #EXTINF:-1 tvg-id="KoickalNews" tvg-name-ml="" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1752312590_Koickal%20Tv%20Kerala%20News.png" tvg-region="Unknown" group-title="Local",Koickal News
 https://play.applelive.in/koickalnews/koickalnews.m3u8
