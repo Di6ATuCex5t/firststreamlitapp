@@ -478,8 +478,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="SanaPlus.in@SD" tvg-name="SanaPlus" tvg-logo="https://play-lh.googleusercontent.com/dlB8gw2yqzd8bcuvtgux5jJT-Ul26SjZio7Dsk_0qhR9ZzF3NxxbvZqjWF8kej_tUQ" group-title="Music",Sana Plus
 https://galaxyott.live/hls/sanaplus.m3u8
-#EXTINF:-1 tvg-id="SanaTV.in@SD" tvg-name="Sana" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sanatv.png" group-title="Music",Sana TV
-https://galaxyott.live/hls/sanatv.m3u8
 
 # Doordarshan
 #EXTINF:-1 tvg-id="Gyandarshan.in@SD" tvg-name="Gyandarshan" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan" tvg-name="Tunes6" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",Gyandarshan
