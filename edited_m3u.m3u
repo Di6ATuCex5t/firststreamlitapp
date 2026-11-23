@@ -183,7 +183,7 @@ https://live.skystream.in/live/pcn/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.timesnownews.com/
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
 #EXTINF:-1 tvg-id="Business Today TV" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/resource/img/logo/bttv-new-logo.png" group-title="Business News",Business Today 
-https://bttvlive-amd.akamaized.net/hls/live/2096488/live/bttv/bttv4/chunklist.m3u8
+https://feeds.intoday.in/bttv/itgd.m3u8
 #EXTINF:-1 tvg-id="NDTV Profit" tvg-logo="https://i.postimg.cc/NF494Cw8/NDTV_Profit.jpg" group-title="Business News",NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 #EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in@SD"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18Prime.png" group-title="Business News",CNBC TV18 Prime HD (1080p)
